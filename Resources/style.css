@@ -1,0 +1,47 @@
+html {
+  background-color: black;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+p, .Download {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.cellphoneicon {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 5%;
+}
+
+.video {
+  text-align: center;
+}
+
+.Excursion {
+  text-align: right;
+}
